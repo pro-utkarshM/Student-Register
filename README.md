@@ -1,2 +1,2 @@
-# StudentRegister
+# Student Register
 Under development
