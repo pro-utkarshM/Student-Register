@@ -14,4 +14,5 @@ interface StudentDao {
 
     @Query("SELECT * FROM Student_data_table")
     fun getAllStudents():LiveData<List<Student>>
+
 }
