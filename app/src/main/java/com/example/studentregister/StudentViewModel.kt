@@ -13,10 +13,10 @@ class StudentViewModel(private val dao:StudentDao):ViewModel() {
         dao.insertStudent(student)
     }
     fun updateStudent(student:Student)=viewModelScope.launch {
-        dao.insertStudent(student)
+        dao.updateStudent(student)
     }
     fun deleteStudent(student:Student)=viewModelScope.launch {
-        dao.insertStudent(student)
+        dao.deleteStudent(student)
     }
 
 
