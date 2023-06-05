@@ -4,7 +4,7 @@ Welcome to the Student Register repository! This repository contains a simple we
 
 ## Features
 
-- Add new students to the database by providing their details such as name and Email.
+- Add new students to the database by providing their details such as name and email.
 - View a list of all registered students along with their details.
 - Update the information of existing students.
 - Delete student records from the database.
@@ -14,15 +14,15 @@ Welcome to the Student Register repository! This repository contains a simple we
 The Student Register application is built using the following technologies:
 
 - **Kotlin:** The primary programming language used for backend development.
-- **Room: ** Room is an Android library that provides an abstraction layer over SQLite, allowing for simplified database access and management through the use of annotations and pre-compiled SQL queries.
-- **ViewModel:**ViewModel is an Android architecture component that stores and manages UI-related data, preserving data across configuration changes and providing separation of concerns between UI and data handling logic
- **LiveData:**LiveData is an observable data holder class in Android that allows data to be observed by UI components, ensuring they always have the most up-to-date data and automatically updating the UI when the data changes
- **Coroutines:**Coroutines are a Kotlin feature that provide a simple and efficient way to write asynchronous code in a sequential manner, allowing for asynchronous programming without the complexities of traditional callback or thread-based approaches.
- 
- 
+- **Room:** Room is an Android library that provides an abstraction layer over SQLite, allowing for simplified database access and management through the use of annotations and pre-compiled SQL queries.
+- **ViewModel:** ViewModel is an Android architecture component that stores and manages UI-related data, preserving data across configuration changes and providing separation of concerns between UI and data handling logic.
+- **LiveData:** LiveData is an observable data holder class in Android that allows data to be observed by UI components, ensuring they always have the most up-to-date data and automatically updating the UI when the data changes.
+- **Coroutines:** Coroutines are a Kotlin feature that provide a simple and efficient way to write asynchronous code in a sequential manner, allowing for asynchronous programming without the complexities of traditional callback or thread-based approaches.
+
 ## Installation
 
 To run this application locally, please follow these steps:
+
 
 1. Clone the repository:
 
