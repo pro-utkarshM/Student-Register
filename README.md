@@ -70,13 +70,3 @@ If you wish to contribute to the codebase, please follow these steps:
 3. Make your changes and commit them with descriptive commit messages.
 4. Push your changes to your forked repository.
 5. Open a pull request in the original repository, describing your changes.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-## Acknowledgements
-
-- This project was developed by [Utkarsh Maurya](https://github.com/pro-utkarshM) as a sample application.
-
-Thank you for using the Student Register application!
